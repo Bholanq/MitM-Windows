@@ -1,5 +1,6 @@
-Python ARP Spoofing & MITM Automation Tool
-This repository contains a powerful penetration testing utility developed in Python for automating Man-in-the-Middle (MITM) attacks on a local network. The tool uses the Scapy library to perform network discovery, execute ARP spoofing, and intercept network traffic for analysis.
+
+This repository contains a powerful penetration testing utility developed in Python for automating Man-in-the-Middle (MITM) attacks on a local network.
+The tool uses the Scapy library to perform network discovery, execute ARP spoofing, and intercept network traffic for analysis.
 
 Prerequisites
 For Linux
