@@ -8,7 +8,7 @@ import threading
 import ctypes
 import winreg
 
-output_file_path = r"C:\Users\akash\OneDrive\Desktop\MitM CDAC\intercepted_traffic.pcap"
+output_file_path = r"YOUR_PATH_HERE"
 
 
 
